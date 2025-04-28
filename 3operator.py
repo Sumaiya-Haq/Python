@@ -44,3 +44,13 @@ print("Num = ",num)
 print(not False)
 print(not True)
 
+price=20
+price1=30
+print(price<price1)
+
+val1=False 
+val2=False
+print("AND operator: ",val1 and val2)
+
+print("OR operator: ",val1 or val2)
+print("OR operator: ",(a==b) or (a>b))
