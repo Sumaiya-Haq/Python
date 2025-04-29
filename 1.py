@@ -13,10 +13,4 @@ print("My name is ", name) # Prints "My name is " followed by the value of 'name
 
 print("my age is ", age)   # Prints "my age is " followed by the value of 'age'
 
-age2 = age                 # Copies the value of 'age' into a new variable 'age2'
-
-print(age2)                # Prints the value of 'age2'
-
-print(type(name))          # Prints the data type of 'name' (which is a string)
-
-print(type(age))           # Prints the data type of 'age' (which is an integer)
+age2 = age                 
