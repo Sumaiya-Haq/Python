@@ -19,4 +19,14 @@ print(name2)
 # Assigning an integer value to variable 'age'
 age = 22
 
+# Assigning a boolean value (False) to variable 'old'
+old = False
 
+# Assigning a special value None (meaning no value) to variable 'a'
+a = None
+
+# Printing the data type of the variable 'old' (should print <class 'bool'>)
+print(type(old))
+
+# Printing the data type of the variable 'a' (should print <class 'NoneType'>)
+print(type(a))
