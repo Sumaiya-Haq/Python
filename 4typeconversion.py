@@ -1,9 +1,11 @@
-a="2"
-b=4.25
+#a="2"
+#b=4.25
 
-sum= a+b
-print(sum)
+#sum= a+b
+#print(sum)
 
+#type cast
 c=int ("3")
 d=6.6
 print(type(c))
+print(c+d)
