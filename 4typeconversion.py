@@ -9,3 +9,10 @@ c=int ("3")
 d=6.6
 print(type(c))
 print(c+d)
+
+#string convert
+
+a=3.14
+a=str(a)
+
+print(type(a))
