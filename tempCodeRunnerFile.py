@@ -1,1 +1,1 @@
-print(type(a))
+print("area is= ",area)
