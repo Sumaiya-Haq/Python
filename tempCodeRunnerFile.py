@@ -1,1 +1,0 @@
-print("area is= ",area)
