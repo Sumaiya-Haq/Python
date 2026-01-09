@@ -1,0 +1,13 @@
+Test Case,Algorithm,Avg Turnaround,Avg Waiting,Avg Response,CPU Utilization,Throughput,Context Switches
+1,Enhanced RR,24.8,16.6,16.6,100.0,0.12195121951219512,5
+1,Traditional RR (Q=4),33.4,25.2,8.0,100.0,0.12195121951219512,12
+1,Traditional RR (Q=2),32.6,24.4,4.0,100.0,0.12195121951219512,21
+2,Enhanced RR,6.0,3.6,3.0,100.0,0.4166666666666667,6
+2,Traditional RR (Q=4),5.8,3.4,3.4,100.0,0.4166666666666667,5
+2,Traditional RR (Q=2),6.2,3.8,2.2,100.0,0.4166666666666667,7
+3,Enhanced RR,54.6,34.6,34.6,100.0,0.05,5
+3,Traditional RR (Q=4),82.0,62.0,5.6,100.0,0.05,27
+3,Traditional RR (Q=2),82.8,62.8,2.4,100.0,0.05,51
+4,Enhanced RR,11.0,5.0,5.0,100.0,0.16666666666666666,5
+4,Traditional RR (Q=4),12.6,6.6,3.6,100.0,0.16666666666666666,9
+4,Traditional RR (Q=2),13.8,7.8,2.0,100.0,0.16666666666666666,16
