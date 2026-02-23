@@ -16,3 +16,14 @@ if(age > 18):
         print("You are eligible for driving license")
 else:
     print("You are not eligible for driving license")
+
+
+    #WAP to check if a number entered by the user is odd or even.
+number= int(input("Enter a number: "))
+if(number%2==0):
+    print("The number is even")
+else:
+    print("The number is odd")
+  
+
+  #WAP to find the greatest of 3 numbers entered by the user.
