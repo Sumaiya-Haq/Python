@@ -29,3 +29,13 @@ print(number)
 num=[1,3,5,7,9]
 num.insert(1,4)
 print(num)
+
+
+#list.remove(1)  #removes first occurrence of element
+num.remove(5)
+print(num)
+
+
+#list.pop( idx )  #removes element at idx 
+num.pop(2) #removes element at index 2
+print(num)
