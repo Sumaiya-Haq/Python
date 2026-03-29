@@ -16,3 +16,16 @@ char.sort()
 print(char)
 char.sort(reverse=True)
 print(char)
+
+
+
+#list.reverse( )  #reverses list 
+number=[1,2,3,4,6,8,9]
+number.reverse()
+print(number)
+
+
+#list.insert( idx, el )  #insert element at index 
+num=[1,3,5,7,9]
+num.insert(1,4)
+print(num)
