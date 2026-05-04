@@ -25,3 +25,17 @@ if(copy_list == list):
     print("palindrom")
 else:
     print("not palindrom")
+
+
+
+    #WAP to count the number of students with the “A” grade in the following tuple.
+grade = ("A", "B", "C", "D", "D", "A", "B")
+print(grade.count("A"))
+
+
+#Store the above values in a list & sort them from “A” to “D”.
+
+grade = ["A", "B", "C", "D", "D", "A", "B"]
+grade.sort()
+print(grade)
+
