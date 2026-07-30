@@ -2,6 +2,9 @@
 
 print("Hello World")
 print("Sumaiya")
+
+print("I Love AI")
+print(100)
 #input
 a="A"
 b="B"
