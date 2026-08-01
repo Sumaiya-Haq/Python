@@ -18,3 +18,6 @@ print(type(a))
 #user input
 a=int (input("Enter your mark"))
 print(a)
+
+#calculation
+
