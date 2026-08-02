@@ -26,4 +26,4 @@ d= 6
 print("your result is= ",5+6)
 
 g=0.12
-print(g)342
+print(g)
