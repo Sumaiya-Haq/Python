@@ -16,8 +16,11 @@ b= "S"
 print(type(a))
 
 #user input
-a=int (input("Enter your mark"))
+a=int (input("Enter your mark= "))
 print(a)
 
 #calculation
 
+c= 5
+d= 6
+print("your result is= ",5+6)
