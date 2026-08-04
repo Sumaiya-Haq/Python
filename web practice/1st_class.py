@@ -10,10 +10,11 @@ a="A"
 b="B"
 print(a)
 print(b)
-# type
+# type string
 a= 1
 b= "S"
 print(type(a))
+
 
 #user input
 a=int (input("Enter your mark= "))
